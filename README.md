@@ -1,21 +1,16 @@
-# Aksara Design <h3>Vite + React</h3>
+# Aksara Design <img src="project_aksara_web\projectaksara\src\assets\img\readmelogo.png" width="30" height="30" alt="Aksara Logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" /> <img src="https://vitejs.dev/logo.svg" width="30" height="30" alt="Vite" />
 
-<div align="center">
-  <img src="https://vitejs.dev/logo.svg" alt="Logo Vite" width="80" height="80" style="margin-right: 20px;">
-  <img src="https://reactjs.org/logo-og.png" alt="Logo React" width="80" height="80">
-</div>
+Selamat datang di repositori proyek web personal Aksara Desain! Proyek ini bertujuan untuk menampilkan karya-karya desain grafis, logo, dan pengeditan video yang telah kami hasilkan.
 
-Welcome to the repository of Aksara Desain's personal web project! This project aims to showcase the graphic design, logo, and video editing works we have produced.
+### Tentang Aksara Design
 
-### About Aksara Design
-
-Aksara Desain is a design studio focused on logo creation, graphic design, and video editing services. We are committed to delivering the best results for each of our clients by prioritizing creativity, quality, and customer satisfaction.
+Aksara Desain adalah studio desain yang berfokus pada pembuatan logo, desain grafis, dan layanan pengeditan video. Kami berkomitmen untuk memberikan hasil terbaik bagi setiap klien kami dengan mengutamakan kreativitas, kualitas, dan kepuasan pelanggan.
 
 ### Fitur
-- **Gallery**: Showcasing a collection of design works we have created.
-- **Services**: Information about the various services we offer, including logo creation, graphic design, and video editing.
-- **Portfolio**: Presenting a portfolio of projects we have completed.
-- **Contact**: A contact form to facilitate prospective clients in reaching out to us.
+- **Galeri**: Menampilkan koleksi karya desain yang telah kami buat.
+- **Layanan**: Informasi tentang berbagai layanan yang kami tawarkan, termasuk pembuatan logo, desain grafis, dan pengeditan video.
+- **Portofolio**: Menyajikan portofolio proyek-proyek yang telah kami selesaikan.
+- **Kontak**: Formulir kontak untuk memudahkan calon klien menghubungi kami.
 - 
 <div>
 <h2 style="font-size: 2em; color: #FF5722;">📫 Hubungi Saya</h2>
