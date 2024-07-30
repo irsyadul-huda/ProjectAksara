@@ -18,4 +18,6 @@ Aksara Desain adalah studio desain yang berfokus pada pembuatan logo, desain gra
   </ul>
 
   <p style="font-size: 1.2em; max-width: 600px; margin: auto;">Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya jika Anda ingin berkolaborasi atau hanya ingin mengobrol tentang teknologi.</p>
+
+<p style="font-size: 8px; text-align: center; margin-top: 20px;">© Aksara 2024. All rights reserved</p>
 </div>
