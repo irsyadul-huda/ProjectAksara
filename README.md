@@ -1,5 +1,5 @@
 # Aksara Design <img src="src\assets\img\readmelogo.png" width="70" height="35" alt="readmelogo.png" />
-<br>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" /> <img src="https://vitejs.dev/logo.svg" width="30" height="30" alt="Vite" />
 ### Tentang Aksara Design
 
