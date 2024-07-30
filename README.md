@@ -1,4 +1,4 @@
-# Aksara Design #Vite + React
+# Aksara Design <h3>Vite + React<h3/>
 
 Welcome to the repository of Aksara Desain's personal web project! This project aims to showcase the graphic design, logo, and video editing works we have produced.
 
