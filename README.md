@@ -1,9 +1,5 @@
-# Aksara Design <h3>Vite + React</h3>
-
-<div align="center">
-  <img src="https://vitejs.dev/logo.svg" alt="Logo Vite" width="80" height="80" style="margin-right: 20px;">
-  <img src="https://reactjs.org/logo-og.png" alt="Logo React" width="80" height="80">
-</div>
+# Aksara Design <img src="project_aksara_web\projectaksara\src\assets\img\readmelogo.png" width="30" height="30" alt="readmelogo.png" /> <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" /> <img src="https://vitejs.dev/logo.svg" width="30" height="30" alt="Vite" />
 
 Welcome to the repository of Aksara Desain's personal web project! This project aims to showcase the graphic design, logo, and video editing works we have produced.
 
