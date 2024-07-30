@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # Aksara Design <img src="project_aksara_web\projectaksara\src\assets\img\readmelogo.png" width="30" height="30" alt="Aksara Logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" /> <img src="https://vitejs.dev/logo.svg" width="30" height="30" alt="Vite" />
 
 Selamat datang di repositori proyek web personal Aksara Desain! Proyek ini bertujuan untuk menampilkan karya-karya desain grafis, logo, dan pengeditan video yang telah kami hasilkan.
+=======
+# Aksara Design <img src="project_aksara_web\projectaksara\src\assets\img\readmelogo.png" width="30" height="30" alt="readmelogo.png" /> <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" /> <img src="https://vitejs.dev/logo.svg" width="30" height="30" alt="Vite" />
+>>>>>>> 7d21177cfab911fc542692ecc9a592772e1df725
 
 ### Tentang Aksara Design
 
