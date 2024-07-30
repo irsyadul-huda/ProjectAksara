@@ -1,16 +1,15 @@
-# Aksara Design <img src="src\assets\img\readmelogo.png" width="70" height="35" alt="readmelogo.png" />
+# Aksara Design <img src="src\assets\img\readmelogo.png" width="85" height="35" alt="readmelogo.png" align="right" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" /> <img src="https://vitejs.dev/logo.svg" width="30" height="30" alt="Vite" />
 ### Tentang Aksara Design
 
 Aksara Desain adalah studio desain yang berfokus pada pembuatan logo, desain grafis, dan layanan pengeditan video. Kami berkomitmen untuk memberikan hasil terbaik bagi setiap klien kami dengan mengutamakan kreativitas, kualitas, dan kepuasan pelanggan.
 
-### Fitur
-- **Galeri**: Menampilkan koleksi karya desain yang telah kami buat.
-- **Layanan**: Informasi tentang berbagai layanan yang kami tawarkan, termasuk pembuatan logo, desain grafis, dan pengeditan video.
-- **Portofolio**: Menyajikan portofolio proyek-proyek yang telah kami selesaikan.
-- **Kontak**: Formulir kontak untuk memudahkan calon klien menghubungi kami.
-- 
+### Dalam Aksara
+- Menampilkan koleksi karya desain yang telah kami buat.
+- Informasi tentang berbagai layanan yang kami tawarkan, termasuk pembuatan logo, desain grafis, dan pengeditan video.
+- Layanan menyajikan portofolio.
+- Formulir kontak untuk memudahkan calon klien menghubungi kami.
 <div>
 <h2 style="font-size: 2em; color: #FF5722;">📫 Hubungi Saya</h2>
   <ul style="list-style-type: none; padding: 0;">
