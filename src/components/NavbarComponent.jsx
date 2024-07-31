@@ -1,5 +1,4 @@
 import {useState, useEffect} from "react"
-
 import { Navbar, Container, Nav } from "react-bootstrap";
 import { navLinks } from "../data/index";
 import { NavLink } from "react-router-dom";
@@ -33,7 +32,7 @@ useEffect(() => {
         }}
       >
         <Container>
-          <Navbar.Brand href="#Home" className="fs-3 fw-bold" style={{ color: 'blue', fontWeight: 'bold' }}>
+          <Navbar.Brand href="#Beranda" className="fs-3 fw-bold" style={{ color: 'blue', fontWeight: 'bold' }}>
             Aksara
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />

@@ -3,11 +3,11 @@ import { Routes, Route } from 'react-router-dom';
 import NavbarComponent from "./components/NavbarComponent";
 import FooterComponent from "./components/FooterComponent";
 
-import HomePages from "./pages/HomePage";
-import KelasPage from "./pages/KelasPage";
-import TestimoniPage from "./pages/TestimoniPage";
+import Beranda from "./pages/Beranda";
+import LayananKami from "./pages/LayananKami";
+import Blog from "./pages/CaraPemesanan";
+import CaraPemesanan from "./pages/Blog";
 import SyaratKetentuan from "./pages/SyaratKetentuan";
-import Faq from "./pages/Faq";
 
 function App() {
   return (
@@ -15,11 +15,11 @@ function App() {
       <NavbarComponent />
 
       <Routes>
-        <Route path="/" element={<HomePages />} />
-        <Route path="/kelas" element={<KelasPage />} />
-        <Route path="/testimoni" element={<TestimoniPage />} />
-        <Route path="/faq" element={<Faq />} />
-        <Route path="/syaratketentuan" element={<SyaratKetentuan />} />
+        <Route path="/"element={<Beranda />} />
+        <Route path="/Layanan  Kami" element={<LayananKami />} />
+        <Route path="/Blog" element={<Blog />} />
+        <Route path="/Cara Pemesanan" element={<CaraPemesanan />} />
+        <Route path="/Syarat Dan Ketentuan" element={<SyaratKetentuan />} />
       </Routes>
 
       <FooterComponent />

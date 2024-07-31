@@ -1,9 +1,9 @@
 import { Container, Row, Col } from "react-bootstrap";
 import HeroImage from "../assets/img/hero.png";
 
-const HomePage = () => {
+const Beranda = () => {
   return (
-    <div className="HomePage">
+    <div className="Beranda">
       <header className="w-100 min-vh-100 d-flex align-items-center">
         <Container>
           <Row className="header-box d-flex align-items-center">
@@ -13,14 +13,15 @@ const HomePage = () => {
                 <span>Style</span> Desainmu Disini
               </h1>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam
-                eos nostrum iusto minus earum quam illum dolore.
+                Temukan beragam style desain yang memukau dan inspiratif di sini, kami hadirkan khusus untuk Anda.<br/>
+                <br />
+                <p><strong>Berlangganan sekarang untuk hemat lebih banyak</strong></p>
               </p>
               <button
                 className="btn btn-primary btn-sm me-3"
                 style={{
-                  fontSize: '0.8rem',
-                  padding: '0.2rem 0.5rem',
+                  fontSize: '1rem',
+                  padding: '0.3rem 0.6rem',
                   transition: 'transform 0.3s ease-in-out, box-shadow 0.2s ease-in-out, color 0.3s ease-in-out',
                   boxShadow: '0 0 5px rgba(255, 255, 255, 0.5)'
                 }}
@@ -52,4 +53,4 @@ const HomePage = () => {
   );
 };
 
-export default HomePage;
+export default Beranda;

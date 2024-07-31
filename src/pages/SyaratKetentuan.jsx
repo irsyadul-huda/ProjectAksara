@@ -1,6 +1,6 @@
 const SyaratKetentuan = () => {
   return (
-    <div>SyaratKetentuan</div>
+    <div>Syarat Dan Ketentuan</div>
   )
 }
 
