@@ -1,4 +1,4 @@
-# Aksara Design <img src="src\assets\img\readmelogo.png" width="85" height="35" alt="readmelogo.png" align="right" />
+# Aksara Design <img src="src\assets\img\readmelogo.png" width="85" height="35" alt="readmelogo.png" align="right" style="pointer-events: none;" />
 
 <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" />
