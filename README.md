@@ -1,6 +1,12 @@
 # Aksara Design <img src="src\assets\img\readmelogo.png" width="85" height="35" alt="readmelogo.png" align="right" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" /> <img src="https://vitejs.dev/logo.svg" width="30" height="30" alt="Vite" />
+<a href="https://react.dev/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" />
+</a>
+<a href="https://vitejs.dev/">
+  <img src="https://vitejs.dev/logo.svg" width="30" height="30" alt="Vite" />
+</a>
+
 ### About Aksara Design
 
 Aksara Design is a design studio focused on logo creation, graphic design, and video editing services. We are committed to delivering the best results for each of our clients by prioritizing creativity, quality, and customer satisfaction.
