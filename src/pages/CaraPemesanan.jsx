@@ -1,7 +1,9 @@
 const CaraPemesanan = () => {
   return (
-    <div>CaraPemesanan</div>
-  )
-}
+    <div >
+      Cara Pemesanan
+    </div>
+  );
+};
 
-export default CaraPemesanan
+export default CaraPemesanan;

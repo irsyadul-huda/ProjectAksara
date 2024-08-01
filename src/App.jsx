@@ -5,8 +5,8 @@ import FooterComponent from "./components/FooterComponent";
 
 import Beranda from "./pages/Beranda";
 import LayananKami from "./pages/LayananKami";
-import Blog from "./pages/CaraPemesanan";
-import CaraPemesanan from "./pages/Blog";
+import Blog from "./pages/Blog1";
+import CaraPemesanan from "./pages/CaraPemesanan";
 import SyaratKetentuan from "./pages/SyaratKetentuan";
 
 function App() {

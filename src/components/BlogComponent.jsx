@@ -1,7 +1,7 @@
-const CaraPemesanan = () => {
+const MyBlog = () => {
   return (
-    <div>CaraPemesanan</div>
+    <div>Blog</div>
   )
-}
+};
 
-export default CaraPemesanan
+export default MyBlog;
