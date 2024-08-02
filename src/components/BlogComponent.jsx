@@ -3,4 +3,5 @@ const MyBlog = () => {
     <div>Blog</div>
   )
 };
+
 export default MyBlog;
