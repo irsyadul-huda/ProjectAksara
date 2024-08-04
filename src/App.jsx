@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route } from "react-router-dom";
 
 import NavbarComponent from "./components/NavbarComponent";
 import FooterComponent from "./components/FooterComponent";
@@ -15,7 +15,7 @@ function App() {
       <NavbarComponent />
 
       <Routes>
-        <Route path="/"element={<Beranda />} />
+        <Route path="/" element={<Beranda />} />
         <Route path="/Layanan  Kami" element={<LayananKami />} />
         <Route path="/Blog" element={<Blog />} />
         <Route path="/Cara Pemesanan" element={<CaraPemesanan />} />

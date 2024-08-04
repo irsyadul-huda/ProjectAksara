@@ -7,7 +7,7 @@ const Blog = () => {
       <div className="kelas w-100 min-vh-100"></div>
       <BlogComponent />
     </div>
-  )
-}
+  );
+};
 
-export default Blog
+export default Blog;
